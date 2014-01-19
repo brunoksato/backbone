@@ -16,3 +16,9 @@ todoItem.get('description');
 todoItem.set({status: 'complete'});
 //sync to the server
 todoItem.save();
+
+
+
+var Appointment = Backbone.Model.extend({});
+var appointment = new Appointment();
+appointment.set('title', 'My knee hurts');
