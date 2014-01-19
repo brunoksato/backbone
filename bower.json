@@ -1,0 +1,23 @@
+{
+  "name": "backbonecrup",
+  "version": "1.0.0",
+  "homepage": "https://github.com/brunoksato/backbonecrup",
+  "authors": [
+    "Bruno Sato <bruno.sato@live.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "bootstrap": "~3.0.3",
+    "jquery": "~2.0.3"
+  }
+}

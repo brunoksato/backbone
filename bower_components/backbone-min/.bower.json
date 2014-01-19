@@ -1,0 +1,13 @@
+{
+  "name": "backbone-min",
+  "_cacheHeaders": {
+    "Last-Modified": "Thu, 16 Jan 2014 15:45:09 GMT",
+    "Content-Length": "19548",
+    "Content-Type": "application/x-javascript"
+  },
+  "main": "index.js",
+  "_source": "http://backbonejs.org/backbone-min.js",
+  "_target": "*",
+  "_originalSource": "http://backbonejs.org/backbone-min.js",
+  "_direct": true
+}
